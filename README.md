@@ -3,7 +3,7 @@
 🎯 An all-in-one assistant for students to manage meals, excuses, reminders, entertainment, and text summaries — powered by Google Gemini AI and Gradio.
 
 📽️ Demo Video
-🔗 Watch it on YouTube: (Add your demo link here)
+🔗 YOUTUBE LINK - https://youtu.be/JnvMPFtbHZU
 
 🧠 Project Description
 College life is chaotic — AI Roommate is here to make it smooth. Whether you're starving at 2 AM, forgot an assignment, or need a quick excuse for bunking class, this app’s got your back. With natural language interaction, it delivers personalized meal plans, creative excuses, reminders, entertainment suggestions, and text summaries — all in one sleek interface.
